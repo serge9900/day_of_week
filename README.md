@@ -1,8 +1,9 @@
+# To run the program in the day_of_week directory, run make, and in the bin folder, run day_of_week.
+
 ## The program of which you can find the day of the weekfor a given date. 
 ## The algorithm used to determine the day of the week.
 ## А simple function suggested by Sakamoto, Lachman, Keith and Craver to calculate day.
 ## Understanding the Maths:
-
 
 * 14/09/1998
 * dd=14
