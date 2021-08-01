@@ -13,10 +13,10 @@ Step 1: Informations to be remembered.
  For Year: {0,3,3,6,1,4,6,2,5,0,3,5}
  DAY array starting from 0-6: {Sunday, Monday, Tuesday, Wednesday, Thursday, Friday, Saturday}
  Century Year Value: 1600-1699 = 6
-      1700-1799 = 4
-      1800-1899 = 2
-      1900-1999 = 0
-      2000-2099 = 6..
+  *    1700-1799 = 4
+  *    1800-1899 = 2
+  *    1900-1999 = 0
+  *    2000-2099 = 6..
 
 Step 2: Calculations as per the steps
  
