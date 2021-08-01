@@ -1,7 +1,7 @@
-The program of which you can find the day of the weekfor a given date. 
-The algorithm used to determine the day of the week.
-А simple function suggested by Sakamoto, Lachman, Keith and Craver to calculate day.
-Understanding the Maths:
+## The program of which you can find the day of the weekfor a given date. 
+## The algorithm used to determine the day of the week.
+## А simple function suggested by Sakamoto, Lachman, Keith and Craver to calculate day.
+## Understanding the Maths:
 
 14/09/1998
 dd=14
@@ -32,4 +32,4 @@ Step 2: Calculations as per the steps
  
  Check the Day array starting from index 0: Day[1] = Monday
 
-**If leap year it will be the remainder-1
+leap year it will be the remainder-1
