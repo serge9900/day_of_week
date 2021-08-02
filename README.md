@@ -12,7 +12,7 @@
 ##
 ## Step 1: Informations to be remembered.
 Magic Number Month array.
-For Year: {0,3,3,6,1,4,6,2,5,0,3,5};
+For Year: {0,3,2,5,0,3,5,1,4,6,2,4};
  
  DAY array starting from 0-6: {Sunday, Monday, Tuesday, Wednesday, Thursday, Friday, Saturday};
  
